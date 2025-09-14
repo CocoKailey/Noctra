@@ -123,27 +123,27 @@
 #define JDO_CARPENTER 28.6
 #define JDO_CHEESEMAKER 28.7
 #define JDO_MINER 28.8
-#define JDO_MATRON 28.9
-#define JDO_GRAVEMAN 29
+#define JDO_BATHOUSEMANAGER 28.9
+#define JDO_WHORE 29
+#define JDO_GRAVEMAN 30
 
-#define JDO_JESTER 30
-#define JDO_BARD 30.1
-#define JDO_PRISONER 31
+#define JDO_JESTER 31
+#define JDO_BARD 31.1
+#define JDO_PRISONER 32
 
-#define JDO_CHIEF 32
+#define JDO_CHIEF 33
 
-#define JDO_ADVENTURER 33
-#define JDO_GAFFER 33.1
-#define JDO_PILGRIM 34.2
-#define JDO_MIGRANT  34.3
-#define JDO_BANDIT 34.3
-#define JDO_WRETCH 34.4
+#define JDO_ADVENTURER 34
+#define JDO_GAFFER 34.1
+#define JDO_PILGRIM 35.2
+#define JDO_MIGRANT  35.3
+#define JDO_BANDIT 35.3
+#define JDO_WRETCH 35.4
 
-#define JDO_MERCENARY 35
+#define JDO_MERCENARY 37
 
-#define JDO_VAGRANT 36
-#define JDO_ORPHAN 37
-#define JDO_SOILCHILD 38
+#define JDO_VAGRANT 38
+#define JDO_SOILCHILD 39
 
 
 #define BITFLAG_CHURCH (1<<0)
