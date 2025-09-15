@@ -22,11 +22,10 @@
 	shoes = /obj/item/clothing/shoes/nobleboot
 	belt = /obj/item/storage/belt/leather
 
-	H.adjust_skillrank(/datum/skill/misc/athletics, pick(3,4, TRUE)
+	H.adjust_skillrank(/datum/skill/misc/athletics, pick(3,4), TRUE)
 	H.adjust_skillrank(/datum/skill/misc/riding, pick(2,4), TRUE) //:3
 	H.adjust_skillrank(/datum/skill/misc/music, 4 , TRUE)
 	H.adjust_skillrank(/datum/skill/misc/reading, 3 , TRUE)
-	ADD_TRAIT(H,  TRAIT_GENERIC)
 	if(H.gender == MALE)
 		pants = /obj/item/clothing/pants/tights/colored/purple
 		shirt = /obj/item/clothing/shirt/undershirt/lowcut

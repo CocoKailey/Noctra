@@ -50,6 +50,8 @@ GLOBAL_LIST_INIT(serf_positions, list(
 	/datum/job/scribe::title,
 	/datum/job/gaffer::title,
 	/datum/job/butler::title,
+	/datum/job/brothelmanager::title,
+	/datum/job/whore::title,
 	))
 GLOBAL_PROTECT(serf_positions)
 
